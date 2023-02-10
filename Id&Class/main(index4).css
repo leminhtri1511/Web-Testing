@@ -1,0 +1,8 @@
+/* Sử dụng ID */
+#first-heading {color: red;} 
+/* Sử dụng Class */
+.second-heading 
+{
+    color: yellow; 
+    font-size: 20px;
+}
